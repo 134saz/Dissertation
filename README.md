@@ -1,6 +1,6 @@
-This repository contains the implementation of portfolio optimization models used in the dissertation "Optimising Investment Portfolios with Risk Constraints".
+This repository contains the implementation of portfolio optimisation models used in the dissertation "Optimising Investment Portfolios with Risk Constraints".
 
-This study compares four portfolio optimization approaches across varying market conditions using FTSE 100 data from 2018-2025:
+This study compares four portfolio optimisation approaches across varying market conditions using FTSE 100 data from 2018-2025:
 Mean-Variance Optimisation - Traditional Markowitz model
 Static CVaR-Constrained - Linear programming with CVaR constraints
 Two-Stage Stochastic Programming - Incorporating uncertainty and transaction costs
